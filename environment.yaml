@@ -1,0 +1,11 @@
+name: aquaculture-genomics
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - pandas
+  - pip
+  - python=3.12
+  - snakemake
+
+prefix: "/home/alexm/miniforge3/envs/aquaculture-genomics"
